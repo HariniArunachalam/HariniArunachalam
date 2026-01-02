@@ -1,6 +1,6 @@
 👋 Hi, I'm Harini A
 
-        🎓 Entry-Level Engineer | VLSI • Embedded Systems • Database Development
+        🎓 Entry-Level Engineer | PCB Design • VLSI • Embedded Systems • Database Development
 
 
 🚀 About Me
